@@ -1,0 +1,11 @@
+"predator"
+{
+    "base"  "base"
+    "title"  "Predator"
+    "menusystem"    "1"
+
+    "settings"
+    {
+        
+    }
+}
